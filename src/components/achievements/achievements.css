@@ -4,7 +4,9 @@
     gap: 2.5rem;
 }
 .portfolio__item {
-    background: var(--color-bg-variant);
+    /* background: var(--color-bg-variant); */
+    /* border-color: var(--color-primary-variant); */
+    background: transparent;
     padding: 1rem;
     border-radius: 2rem;
     border: 1px solid transparent;

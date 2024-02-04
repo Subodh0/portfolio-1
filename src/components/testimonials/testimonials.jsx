@@ -2,8 +2,6 @@ import React from 'react';
 import './testimonials.css';
 import AVTR1 from '../../assets/avatar1.jpg';
 import AVTR2 from '../../assets/avatar2.jpg';
-import AVTR3 from '../../assets/avatar3.jpg';
-import AVTR4 from '../../assets/avatar4.jpg';
 
 import { Pagination } from 'swiper/modules';
 
@@ -28,16 +26,6 @@ const rev = [
     name: "Dr. Lakshmi J V N",
     desn : "Assitant Professor | Sunstone Eduversity",
     review: 'It is with great pleasure that I write this testimonial for Anita. She has impressed me with her intellectual curiosity and the ability to think critically. She is not only adept at grasping complex concepts but also proficient in applying them to real-world scenarios. Her enthusiasm for learning is evident in her active participation in class and extracurricular activities. Her dedication to academic excellence and personal growth sets a commendable example for peers and reflects her strong commitment to success.'
-  },
-  {
-    avatar: AVTR3,
-    name: "Client 3",
-    review: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sed harum recusandae dolorem quisquam illo pariatur consequatur veniam ducimus quibusdam fuga architecto eius molestias quia, eum voluptas asperiores, quo ipsam aliquam?'
-  },
-  {
-    avatar: AVTR4,
-    name: "Client 4",
-    review: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sed harum recusandae dolorem quisquam illo pariatur consequatur veniam ducimus quibusdam fuga architecto eius molestias quia, eum voluptas asperiores, quo ipsam aliquam?'
   }
 ]
 

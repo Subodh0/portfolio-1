@@ -1,5 +1,5 @@
 header {
-    height: 93vh;
+    height: 100vh;
     padding-top: 3rem;
     overflow: hidden;
 }
@@ -43,7 +43,7 @@ header {
     margin-top: 2rem;
     border-radius: 12rem 12rem 0 0;
     overflow: hidden;
-    padding: 5rem 1rem 1rem 1rem;
+    padding: 2rem 1rem 1rem 0rem;
 }
 
 .scroll__down {
@@ -62,13 +62,14 @@ header {
 }
 @media screen and (max-width: 600px) {
     header{
-        height: 80vh;
+        height: 85vh;
     }
     .header__socials, .scroll__down {
         display: none;
     }
     .me {
+        margin-top: 4rem;
         padding-right: 4px;
-        padding-left: 5px;
+        padding-left: 0px;
     }
 }

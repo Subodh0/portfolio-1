@@ -5,7 +5,7 @@
 }
 .portfolio__item {
     background: var(--color-bg-variant);
-    padding: 1.2rem;
+    padding: 1rem;
     border-radius: 2rem;
     border: 1px solid transparent;
     transition: var(--transition);
@@ -19,7 +19,7 @@
     overflow: hidden;
 }
 .portfolio__item h3 {
-    margin: 1.2rem 0 1.5rem;
+    margin: 1.2rem 0 1.2rem;
 }
 .portfolio__itam-cta {
     display: flex;
